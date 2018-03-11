@@ -75,3 +75,8 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+BattleTanksUnreal/Content/Environment_Set/
+BattleTanksUnreal/Content/FireEffects/Materials/M_Embers.uasset
+BattleTanksUnreal/Content/FireEffects/
+BattleTanksUnreal/Content/StarterContent/
+BattleTanksUnreal/Content/UniversalSoundFX/
