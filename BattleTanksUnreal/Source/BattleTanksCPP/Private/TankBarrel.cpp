@@ -4,8 +4,6 @@
 #include "Public/Math/UnrealMathUtility.h"
 
 
-
-
 void UTankBarrel::Elevate(float RelativeSpeed)
 {
 
